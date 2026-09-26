@@ -5,20 +5,22 @@ Building polished web experiences, internal tools, and business applications wit
 
 ---
 ## 🚀 Things I've Built
-### SaintFlick
-AI-powered movie discovery platform  
-`Next.js` • `TypeScript` • `OpenAI` • `Vercel`
-### Asare Hair
-Modern e-commerce experience  
-`PayPal` • `Responsive UI` • `Web Development`
-### Internal Business Tools
-Business-facing tools and workflow systems  
-`PHP` • `JavaScript` • `AJAX` • `MySQL` • `SQL`
-### Power Platform & Automation
-Business applications and automated workflows  
-`Power Apps` • `Power Automate` • `Dataverse`
+## 🚀 Things I've Built
+
+**SaintFlick** — AI movie discovery  
+`Next.js` `TypeScript` `OpenAI` `Vercel`
+
+**Asare Hair** — E-commerce platform  
+`JavaScript` `PayPal` `Responsive UI`
+
+**Internal Tools** — Business apps & workflow systems  
+`PHP` `JavaScript` `AJAX` `MySQL` `SQL`
+
+**Power Platform** — Business automation  
+`Power Apps` `Power Automate` `Dataverse`
 
 ---
+
 ## 🛠️ What I Work With
 **Languages →** JavaScript • TypeScript • Python • PHP • C# • Java • C++
 **Frontend →** React • Next.js • HTML • CSS • Bootstrap
