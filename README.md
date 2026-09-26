@@ -5,7 +5,6 @@ Building polished web experiences, internal tools, and business applications wit
 
 ---
 ## 🚀 Things I've Built
-## 🚀 Things I've Built
 
 **SaintFlick** — AI movie discovery  
 `Next.js` `TypeScript` `OpenAI` `Vercel`
