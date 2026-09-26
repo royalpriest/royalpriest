@@ -3,6 +3,7 @@
 ### Software Developer • Full-Stack Builder • Cloud & Automation Enthusiast
 Building polished web experiences, internal tools, and business applications with a focus on usability, automation, and real-world problems.
 
+> 🔒 Some professional, academic, and in-progress projects are maintained in private repositories. Public contributions and selected projects shown here represent only part of my development work.
 ---
 ## 🚀 Things I've Built
 
