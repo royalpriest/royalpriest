@@ -43,7 +43,7 @@ Cloud Engineering • Data-Driven Applications • Workflow Automation • Softw
 
 ## ⚡ How I Build
 
-Software for everyday problems — from customer-facing web experiences to internal business systems, analytics tools, and automated workflows.
+Software for everyday problems, from customer-facing web experiences to internal business systems, analytics tools, and automated workflows.
 
 ---
 
