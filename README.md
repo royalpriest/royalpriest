@@ -12,6 +12,7 @@ Building polished web products, data-driven tools, internal systems, and busines
 
 **NorthStar Baseball** — Context-aware MLB hitter analytics platform  
 `Next.js` `TypeScript` `FastAPI` `Python` `Docker`
+https://northstar-baseball.vercel.app/
 
 **SaintFlick** — AI movie discovery  
 `Next.js` `TypeScript` `OpenAI` `Vercel`
