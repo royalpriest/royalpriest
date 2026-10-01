@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Royalpriest Babalola
 
-### Software Developer • Full-Stack Builder • Cloud & Automation Enthusiast
+### Software Developer • Full-Stack Developer • Cloud & Automation Enthusiast
 
 Building polished web products, data-driven tools, internal systems, and business applications with a focus on usability, automation, and real-world problems.
 
