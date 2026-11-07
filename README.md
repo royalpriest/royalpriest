@@ -16,6 +16,7 @@ https://northstar-baseball.vercel.app/
 
 **SaintFlick** — AI movie discovery  
 `Next.js` `TypeScript` `OpenAI` `Vercel`
+https://saintflick.com/
 
 **Internal Tools** — Business apps & workflow systems  
 `PHP` `JavaScript` `AJAX` `MySQL` `SQL`
