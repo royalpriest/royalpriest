@@ -10,52 +10,15 @@ I build web products that people actually use: the screens, the APIs and databas
 
 ## 🚀 Things I've Built
 
-### SaintFlick · [Live site ↗](https://saintflick.com/)
-AI movie discovery: describe a mood, get films that match with a short reason why.
-
-LLM structured outputs grounded in live movie data, a second pass that checks each pick, and a 66-case evaluation suite.
-
-`Next.js` `TypeScript` `OpenAI API` `Redis` `Supabase`
-
-### Storikeep · [Live site ↗](https://storikeep.com/)
-Track the movies, shows, books and games you love, on web and mobile.
-
-Versioned REST API with idempotency keys and short-lived tokens. 200+ reviewed pull requests, 900+ automated tests.
-
-`Node.js` `Express` `MongoDB` `Expo` `Playwright`
-
-### NorthStar Baseball · [Live site ↗](https://northstar-baseball.vercel.app/)
-MLB player profiles and comparisons, explained in plain terms.
-
-Pipelines turning 742,080 pitches into 190,987 plate appearances (109 tests), plus an honest model evaluation.
-
-`Python` `SQL` `DuckDB` `FastAPI` `Docker`
-
-### Railstat · [Live site ↗](https://railstat-iota.vercel.app/)
-Turns a messy bookings spreadsheet into a validated dashboard.
-
-Row-by-row validation, exact money math, 53 tests in CI across Python 3.11–3.13.
-
-`Python` `Flask` `pytest`
-
-### Pipeline OS
-Turns long videos into captioned short clips, entirely in the browser.
-
-On-device speech-to-text and a runtime that chains sandboxed apps like Unix pipes, with type checks and flow control.
-
-`TypeScript` `Whisper` `WebGPU` `Web Workers`
-
-### Football Movement Tracking
-Measures how far players run from ordinary broadcast video.
-
-Maps video to field positions in metres; per-player distance within 7.1% (median) on held-out clips.
-
-`Python` `PyTorch` `OpenCV`
-
-### Power Platform
-Business apps and workflow automation.
-
-`Power Apps` `Power Automate` `Dataverse`
+| Project | What it does | Stack |
+|:--|:--|:--|
+| <a href="https://saintflick.com/"><img src="https://img.shields.io/badge/SaintFlick-Live_%E2%86%97-E50914?style=for-the-badge" /></a> | AI movie discovery: describe a mood, get matching films with a reason why. LLM outputs grounded in live data, a second checking pass, 66-case eval suite. | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /> |
+| <a href="https://storikeep.com/"><img src="https://img.shields.io/badge/Storikeep-Live_%E2%86%97-7C3AED?style=for-the-badge" /></a> | Track the movies, shows, books and games you love, on web and mobile. Versioned REST API with idempotency keys; 900+ tests. | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /> |
+| <a href="https://northstar-baseball.vercel.app/"><img src="https://img.shields.io/badge/NorthStar_Baseball-Live_%E2%86%97-1D4ED8?style=for-the-badge" /></a> | MLB player profiles explained in plain terms. Pipelines turn 742K pitches into 190K plate appearances; honest model evaluation. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" /> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
+| <a href="https://railstat-iota.vercel.app/"><img src="https://img.shields.io/badge/Railstat-Live_%E2%86%97-059669?style=for-the-badge" /></a> | Turns a messy bookings spreadsheet into a validated dashboard. Row-by-row checks, exact money math, 53 tests in CI. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Pipeline_OS-0F766E?style=for-the-badge" /> | Turns long videos into captioned short clips, entirely in the browser. On-device speech-to-text and sandboxed apps chained like Unix pipes. | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/WebGPU-005A9C?style=flat-square" /> |
+| <img src="https://img.shields.io/badge/Football_Tracking-15803D?style=for-the-badge" /> | Measures how far players run from broadcast video. Maps video to field positions in metres; 7.1% median error per player. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge" /> | Business apps and workflow automation. | <img src="https://img.shields.io/badge/Power_Apps-742774?style=flat-square" /> <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square" /> <img src="https://img.shields.io/badge/Dataverse-088142?style=flat-square" /> |
 
 ---
 
