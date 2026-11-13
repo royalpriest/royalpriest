@@ -1,32 +1,72 @@
 # 👨🏾‍💻 Royalpriest Babalola
 
-Full-Stack Developer · AI & Data · Computer Science (Year 3) @ Lakehead University
+**Full-Stack Developer · AI & Data · Computer Science (Year 3) @ Lakehead University**
 
 I build web products that people actually use: the screens, the APIs and databases behind them, and the AI and data features on top. I care about testing, honest evaluation and leaving code cleaner than I found it.
 
-🔒 Several of my projects live in private repositories. Live demos are linked below, and I'm happy to walk through any of the code.
+> 🔒 Several of my projects live in private repositories. Live demos are linked below, and I'm happy to walk through any of the code.
 
-🚀 Things I've Built
+---
 
-SaintFlick: AI movie discovery. Describe a mood, get films that match with a short reason why. Next.js TypeScript OpenAI API Redis Supabase LLM structured outputs grounded in live movie data, a second pass that checks each pick, and a 66-case evaluation suite.
+## 🚀 Things I've Built
 
-Storikeep: Track the movies, shows, books and games you love, on web and mobile. Node.js Express MongoDB Expo Playwright Versioned REST API with idempotency keys and short-lived tokens. 200+ reviewed pull requests, 900+ automated tests.
+### SaintFlick · [Live site ↗](https://saintflick.com/)
+AI movie discovery: describe a mood, get films that match with a short reason why.
 
-NorthStar Baseball: MLB player profiles and comparisons, explained in plain terms. Python SQL DuckDB FastAPI Docker Pipelines turning 742,080 pitches into 190,987 plate appearances (109 tests), plus an honest model evaluation.
+LLM structured outputs grounded in live movie data, a second pass that checks each pick, and a 66-case evaluation suite.
 
-Pipeline OS: Turns long videos into captioned short clips, entirely in the browser. TypeScript Whisper WebGPU Web Workers On-device speech-to-text and a runtime that chains sandboxed apps like Unix pipes, with type checks and flow control.
+`Next.js` `TypeScript` `OpenAI API` `Redis` `Supabase`
 
-Football Movement Tracking: Measures how far players run from ordinary broadcast video. Python PyTorch OpenCV Maps video to field positions in metres; per-player distance within 7.1% (median) on held-out clips.
+### Storikeep · [Live site ↗](https://storikeep.com/)
+Track the movies, shows, books and games you love, on web and mobile.
 
-Power Platform: Business apps and workflow automation. Power Apps Power Automate Dataverse
+Versioned REST API with idempotency keys and short-lived tokens. 200+ reviewed pull requests, 900+ automated tests.
 
-Railstat: Turns a messy bookings spreadsheet into a validated dashboard. Python Flask pytest Row-by-row validation, exact money math, 53 tests in CI across Python 3.11–3.13.
+`Node.js` `Express` `MongoDB` `Expo` `Playwright`
 
-💼 Experience
+### NorthStar Baseball · [Live site ↗](https://northstar-baseball.vercel.app/)
+MLB player profiles and comparisons, explained in plain terms.
 
-Software Developer Co-op, Albarrie Canada (Jan–Apr 2026) Built and maintained the internal web apps four departments use every day, with PHP, JavaScript, MySQL and ERP integration.
+Pipelines turning 742,080 pitches into 190,987 plate appearances (109 tests), plus an honest model evaluation.
 
-🛠️ What I Work With
+`Python` `SQL` `DuckDB` `FastAPI` `Docker`
+
+### Railstat · [Live site ↗](https://railstat-iota.vercel.app/)
+Turns a messy bookings spreadsheet into a validated dashboard.
+
+Row-by-row validation, exact money math, 53 tests in CI across Python 3.11–3.13.
+
+`Python` `Flask` `pytest`
+
+### Pipeline OS
+Turns long videos into captioned short clips, entirely in the browser.
+
+On-device speech-to-text and a runtime that chains sandboxed apps like Unix pipes, with type checks and flow control.
+
+`TypeScript` `Whisper` `WebGPU` `Web Workers`
+
+### Football Movement Tracking
+Measures how far players run from ordinary broadcast video.
+
+Maps video to field positions in metres; per-player distance within 7.1% (median) on held-out clips.
+
+`Python` `PyTorch` `OpenCV`
+
+### Power Platform
+Business apps and workflow automation.
+
+`Power Apps` `Power Automate` `Dataverse`
+
+---
+
+## 💼 Experience
+
+### Software Developer Co-op · Albarrie Canada
+*Jan–Apr 2026*
+
+Built and maintained the internal web apps four departments use every day, with PHP, JavaScript, MySQL and ERP integration.
+
+---
 
 <h2 align="center">🛠️ What I Work With</h2>
 
@@ -82,14 +122,9 @@ Software Developer Co-op, Albarrie Canada (Jan–Apr 2026) Built and maintained 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
-🌐 Find Me
-
-Portfolio · LinkedIn
-
-Software for everyday problems, from customer-facing web experiences to internal business systems, analytics tools, and automated workflows.
 
 ---
 
 ## 🌐 Find Me
 
-[Portfolio](https://royalpriest.dev) • [LinkedIn](YOUR_LINKEDIN_URL)
+[Portfolio](https://royalpriest.dev/) · [LinkedIn](https://linkedin.com/in/royalpriest-babalola)
