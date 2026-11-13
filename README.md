@@ -1,10 +1,20 @@
-# 👨🏾‍💻 Royalpriest Babalola
+<div align="center">
 
-**Full-Stack Developer · AI & Data · Computer Science (Year 3) @ Lakehead University**
+<h1>👨🏾‍💻 Royalpriest Babalola</h1>
 
-I build web products that people actually use: the screens, the APIs and databases behind them, and the AI and data features on top. I care about testing, honest evaluation and leaving code cleaner than I found it.
+<a href="https://royalpriest.dev/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;AI+%26+Data+Products;CS+(Year+3)+%40+Lakehead+University" alt="Full-Stack Developer · AI & Data · CS @ Lakehead" /></a>
 
-> 🔒 Several of my projects live in private repositories. Live demos are linked below, and I'm happy to walk through any of the code.
+<p>
+<img src="https://img.shields.io/badge/Lakehead_University-CS_Year_3-003F7D?style=for-the-badge" />
+<a href="https://royalpriest.dev/"><img src="https://img.shields.io/badge/Portfolio-royalpriest.dev-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/royalpriest-babalola"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p>I build web products that people actually use: the screens, the APIs and databases behind them,<br/>and the AI and data features on top. I care about testing, honest evaluation and leaving code cleaner than I found it.</p>
+
+<sub>🔒 Several of my projects live in private repositories. Live demos are linked below, and I'm happy to walk through any of the code.</sub>
+
+</div>
 
 ---
 
@@ -16,18 +26,17 @@ I build web products that people actually use: the screens, the APIs and databas
 | <a href="https://storikeep.com/"><img src="https://img.shields.io/badge/Storikeep-Live_%E2%86%97-7C3AED?style=for-the-badge" /></a> | Track the movies, shows, books and games you love, on web and mobile. Versioned REST API with idempotency keys; 900+ tests. | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /> |
 | <a href="https://northstar-baseball.vercel.app/"><img src="https://img.shields.io/badge/NorthStar_Baseball-Live_%E2%86%97-1D4ED8?style=for-the-badge" /></a> | MLB player profiles explained in plain terms. Pipelines turn 742K pitches into 190K plate appearances; honest model evaluation. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" /> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
 | <a href="https://railstat-iota.vercel.app/"><img src="https://img.shields.io/badge/Railstat-Live_%E2%86%97-059669?style=for-the-badge" /></a> | Turns a messy bookings spreadsheet into a validated dashboard. Row-by-row checks, exact money math, 53 tests in CI. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Pipeline_OS-0F766E?style=for-the-badge" /> | Turns long videos into captioned short clips, entirely in the browser. On-device speech-to-text and sandboxed apps chained like Unix pipes. | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/WebGPU-005A9C?style=flat-square" /> |
-| <img src="https://img.shields.io/badge/Football_Tracking-15803D?style=for-the-badge" /> | Measures how far players run from broadcast video. Maps video to field positions in metres; 7.1% median error per player. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Pipeline_OS-0F766E?style=for-the-badge" /><br><img src="https://img.shields.io/badge/status-in_progress-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/%F0%9F%94%92-private-6B7280?style=flat-square" /> | Turns long videos into captioned short clips, entirely in the browser. On-device speech-to-text and sandboxed apps chained like Unix pipes. | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/WebGPU-005A9C?style=flat-square" /> |
+| <img src="https://img.shields.io/badge/Football_Tracking-15803D?style=for-the-badge" /><br><img src="https://img.shields.io/badge/status-in_progress-F59E0B?style=flat-square" /> <img src="https://img.shields.io/badge/%F0%9F%94%92-private-6B7280?style=flat-square" /> | Measures how far players run from broadcast video. Maps video to field positions in metres; 7.1% median error per player. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> |
 | <img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge" /> | Business apps and workflow automation. | <img src="https://img.shields.io/badge/Power_Apps-742774?style=flat-square" /> <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square" /> <img src="https://img.shields.io/badge/Dataverse-088142?style=flat-square" /> |
 
 ---
 
 ## 💼 Experience
 
-### Software Developer Co-op · Albarrie Canada
-*Jan–Apr 2026*
-
-Built and maintained the internal web apps four departments use every day, with PHP, JavaScript, MySQL and ERP integration.
+| Role | What I did | Stack |
+|:--|:--|:--|
+| <img src="https://img.shields.io/badge/Albarrie_Canada-Software_Developer_Co--op-1E3A8A?style=for-the-badge" /><br><sub>Jan – Apr 2026 · Barrie, ON</sub> | Built and maintained the internal web apps that Engineering, Quality, Sales and Production use every day, including ERP data integration and live reports. | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /> |
 
 ---
 
@@ -44,6 +53,8 @@ Built and maintained the internal web apps four departments use every day, with 
 
 ---
 
-## 🌐 Find Me
+<div align="center">
 
-[Portfolio](https://royalpriest.dev/) · [LinkedIn](https://linkedin.com/in/royalpriest-babalola)
+<sub>Thanks for stopping by ✨</sub>
+
+</div>
