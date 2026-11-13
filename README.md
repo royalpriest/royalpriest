@@ -36,7 +36,7 @@
 
 | Role | What I did | Stack |
 |:--|:--|:--|
-| <img src="https://img.shields.io/badge/Albarrie_Canada-Software_Developer_Co--op-1E3A8A?style=for-the-badge" /><br><b>Jan – Apr 2026</b><br>Barrie, ON | Built and maintained the internal web apps that Engineering, Quality, Sales and Production use every day, including ERP data integration and live reports. | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /> |
+| <b>Software Developer Co-op</b><br><img src="https://img.shields.io/badge/Albarrie_Canada-1E3A8A?style=for-the-badge" /><br>Jan – Apr 2026 | Built and maintained the internal web apps that Engineering, Quality, Sales and Production use every day, including ERP data integration and live reports. | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /> |
 
 ---
 
