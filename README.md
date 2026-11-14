@@ -2,8 +2,6 @@
 
 <a href="https://royalpriest.dev/"><img src="assets/banner.png" alt="Royalpriest Babalola, designer and developer. Software for everyday problems. And films you haven't found yet. royalpriest.dev" width="100%" /></a>
 
-<h1>👨🏾‍💻 Royalpriest Babalola</h1>
-
 <a href="https://royalpriest.dev/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;AI+%26+Data+Products;CS+(Year+3)+%40+Lakehead+University" alt="Full-Stack Developer · AI & Data · CS @ Lakehead" /></a>
 
 <p>
