@@ -2,7 +2,7 @@
 
 <a href="https://royalpriest.dev/"><img src="assets/banner.png" alt="Royalpriest Babalola, designer and developer. Software for everyday problems. And films you haven't found yet. royalpriest.dev" width="100%" /></a>
 
-<a href="https://royalpriest.dev/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;AI+%26+Data+Products;CS+(Year+3)+%40+Lakehead+University" alt="Full-Stack Developer · AI & Data · CS @ Lakehead" /></a>
+<a href="https://royalpriest.dev/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Designer+%26+developer;AI+%26+Data+Products;CS+(Year+3)+%40+Lakehead+University" alt="Designer & developer · AI & Data · CS @ Lakehead" /></a>
 
 <p>
 <img src="https://img.shields.io/badge/Lakehead_University-CS_Year_3-003F7D?style=for-the-badge" />
