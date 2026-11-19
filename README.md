@@ -7,7 +7,6 @@
 <p>
 <img src="https://img.shields.io/badge/Lakehead_University-CS_Year_3-003F7D?style=for-the-badge" />
 <a href="https://royalpriest.dev/"><img src="https://img.shields.io/badge/Portfolio-royalpriest.dev-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://linkedin.com/in/royalpriest-babalola"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p>Most of what I make starts with a small annoyance: a movie night with no pick, a list of shows scattered across apps,<br/>a spreadsheet nobody trusts. I like turning those into things people actually open, then making them fast and dependable.</p>
